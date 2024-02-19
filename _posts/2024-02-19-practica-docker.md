@@ -7,4 +7,4 @@ categories: jekyll update
 
 Practica Docker
 
-![]({{ site.url }} /images/Docker-logo.png)
+![]({{ site.url }}/images/Docker-logo.png)
