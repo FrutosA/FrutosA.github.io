@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Practica Docker!"
-date:   2024-02-19 07:19:03 -0600
+title:  "Welcome to Docker!"
+date:   2024-02-19 06:19:03 -0600
 categories: jekyll update
 ---
 
