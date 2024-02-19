@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Practica Kuberneter
+
+![]({{ site.url }} /images/Kuberneter-logo.png)
