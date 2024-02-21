@@ -7,4 +7,4 @@ categories: jekyll update
 
 Practica Kuberneter
 
-![]({{ site.url }}/images/Kuberneter)
+![]({{ site.url }}/images/kuberneter.png)
