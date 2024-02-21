@@ -13,7 +13,7 @@ Practica LAMP
 
 1º Lo primero que tenemos que hacer es Lanzar la instancia.
 
-![]({{ site.url }}/images/captura_1.png)
+![]({{ site.url }}/images/lamp/captura_1.png)
 
 2º Seleccionamos el S.O., que en este caso es Ubuntu.
 
