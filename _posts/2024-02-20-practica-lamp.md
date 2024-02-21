@@ -17,37 +17,37 @@ Practica LAMP
 
 2º Seleccionamos el S.O., que en este caso es Ubuntu.
 
-![]({{ site.url }}/images/captura_2.png)
+![]({{ site.url }}/images/lamp/captura_2.png)
 
 3º Elegimos el tipo de instancia.
 
-![]({{ site.url }}/images/captura_3.png)
+![]({{ site.url }}/images/lamp/captura_3.png)
 
 4º Seleccionamos el par de claves que nosotros ya hemos descargado antes de iniciar el laboratorio. Nosotros la renombramos y seleccionamos Vockey.pem (la cual tendrá que tener los permisos cambiados).
 
-![]({{ site.url }}/images/captura_4.png)
+![]({{ site.url }}/images/lamp/captura_4.png)
 
 5º  Al grupo de seguridad le añadimos todos los servicios y la lanzamos:
 
-![]({{ site.url }}/images/captura_5.png)
+![]({{ site.url }}/images/lamp/captura_5.png)
 
 ### Asignar una Ip a nuestra instancia.
 
 1º Nos vamos a *Direcciones IP estaticas* y asignamos una nueva IP elastica:
 
-![]({{ site.url }}/images/captura_6.png)
+![]({{ site.url }}/images/lamp/captura_6.png)
 
 2º Asignamos la IP
 
-![]({{ site.url }}/images/captura_7.png)
+![]({{ site.url }}/images/lamp/captura_7.png)
 
 3º Una vez tenemos la IP, solo queda Asignarle a esta una instancia.
 
-![]({{ site.url }}/images/captura_8.png)
+![]({{ site.url }}/images/lamp/captura_8.png)
 
 4º Seleccionamos la instancia y la asociamos. Así cada vez que reiniciemos el laboriatorio no cambiará la IP de la instancia.
 
-![]({{ site.url }}/images/captura_9.png)
+![]({{ site.url }}/images/lamp/captura_9.png)
 
 
 ## Instalación de la pila LAMP
@@ -265,4 +265,4 @@ sudo systemctl restart apache2.service
 
  ````
 
- ![]({{ site.url }}/images/captura_10.png)
+ ![]({{ site.url }}/images/lamp/captura_10.png)
