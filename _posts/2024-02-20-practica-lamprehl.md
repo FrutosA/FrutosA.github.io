@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Practica Kuberneter!"
+title:  "Practica LAMP en REHL"
 date:   2024-02-20 07:19:03 -0600
 categories: jekyll update
 ---
