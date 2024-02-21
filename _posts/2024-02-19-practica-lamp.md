@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PRACTICA LAMP"
-date:   2024-02-20 06:19:03 -0600
+date:   2024-02-19 06:19:03 -0600
 categories: jekyll update
 ---
 

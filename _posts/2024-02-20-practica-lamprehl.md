@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practica Kuberneter!"
-date:   2024-02-21 07:19:03 -0600
+date:   2024-02-20 07:19:03 -0600
 categories: jekyll update
 ---
 
